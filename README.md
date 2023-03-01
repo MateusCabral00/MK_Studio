@@ -1,6 +1,6 @@
 # OnTarget 
 
-  O Equestry é um serviço para cadastro de receitas.
+  O OnTarget é um serviço para cadastro de receitas.
 
 # Objetivo
 
